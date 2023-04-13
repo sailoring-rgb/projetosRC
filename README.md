@@ -1,11 +1,11 @@
 # RC
 
-Projetos de Redes de Computadores 21/22
+Projects accomplished in the scope of <b><i>Computing Networks 21/22</i></b>
 
-Classificação Final: 16/20
+Final Classification: 16/20
 
-# Autores
+# Authors
 
-- Ana Murta
-- Ana Henriques
-- Leonardo Freitas
+- <a href="https://github.com/AnaMurta10">Ana Murta</a>
+- <a href="https://github.com/sailoring-rgb">Ana Henriques</a>
+- <a href="https://github.com/Leonardo1924">Leonardo Freitas</a>
